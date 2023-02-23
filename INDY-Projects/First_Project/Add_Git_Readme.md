@@ -4,15 +4,15 @@
 #02) Install Git on your PC
 #03) Create Git repository from Git Account
 #04) Move to directory in your PC and use following command :
-   git init
+     git init
 #05) Check status of untracked files 
-   git status
+     git status
 #06) Add files to commit
-   git add -A
+     git add -A
 #07) Commit staged files
-   git commit -m "message"
+      git commit -m "message"
 #08) Configure username
-   git config --global user.username
+      git config --global user.username
 
 # Setup SSH for secure transmission (You Can Skip it if already done earlier)
 
