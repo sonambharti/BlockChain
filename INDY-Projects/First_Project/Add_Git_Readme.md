@@ -37,6 +37,6 @@
 18. Select branch as main
      git branch -M main
 19. Add link between local and git repository
-     git remote add origin git@github.com:kartikayt/ktfolio.git
+     git remote add origin git@github.com:sonambharti/project_name.git
 20. Push committed files to git repo
      git push -u origin main
